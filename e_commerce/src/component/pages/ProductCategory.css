@@ -1,0 +1,29 @@
+.category-container {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .category-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .category-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .category-link {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 5px;
+  }
+  
+  .category-link:hover {
+    background-color: #0056b3;
+  }

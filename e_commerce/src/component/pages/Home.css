@@ -1,0 +1,12 @@
+.cart-icon {
+    font-size: 24px;
+    color: #42c1b7;
+    text-decoration: none;
+    position:absolute;
+    top: 26px;
+    right: 10px;
+  }
+  
+  .cart-icon:hover {
+    color: #0056b3;
+  }
